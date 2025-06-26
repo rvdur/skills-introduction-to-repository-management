@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @rvdur
+/src/backend/database.py      @rvdur
+/src/backend/routers/auth.py  @rvdur
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @rvdur
